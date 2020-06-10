@@ -1,10 +1,16 @@
 # BoshCoin Parameter characteristics
 English: BoshCoin
+
 Hereinafter referred to as: BOSH
+
 Difficulty adjustment: DGW3
+
 Total amount: 101480900
+
 Need 5000BOSH mortgage to dig the mine
+
 P2P port 9961, RPC port 9960
+
 Block time is 120 seconds
 
 
