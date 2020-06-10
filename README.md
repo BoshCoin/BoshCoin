@@ -1,7 +1,7 @@
 # BoshCoin Parameter characteristics
 English: BoshCoin
 
-Hereinafter referred to as: BOSH
+Abbreviation: BOSH
 
 Difficulty adjustment: DGW3
 
