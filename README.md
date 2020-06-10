@@ -13,6 +13,9 @@ P2P port 9961, RPC port 9960
 
 Block time is 120 seconds
 
+Homepage：boshcoin.com
+
+Explorer：explorer.boshcoin.com
 
 # About BoshCoin
 BoshCoin is an upgraded version of Bitcoin and Dash. 
